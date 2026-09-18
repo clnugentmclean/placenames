@@ -1,8 +1,24 @@
 ---
 ---
 
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Source+Sans+Pro:wght@300;400;600&display=swap");
+
+$sans-serif: "Source Sans Pro", -apple-system, BlinkMacSystemFont, sans-serif;
+$serif: "Playfair Display", Georgia, serif;
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
+
+/* Headings use the serif */
+h1, h2, h3, h4, h5, h6,
+.page__title {
+  font-family: $serif;
+  font-weight: 700;
+}
+
+body {
+  font-family: $sans-serif;
+}
 
 .dropdown {
   position: relative;
@@ -61,12 +77,17 @@
 
 .masthead .site-title,
 .masthead__menu-item a {
-  color: #181A18 !important; /* soft white */
+  color: #181A18 !important;
+  font-family: $sans-serif;
+  font-weight: 300;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 0.85em;
 }
 
 .masthead .site-title:hover,
 .masthead__menu-item a:hover {
-  color: #181A18 !important; /* slightly brighter on hover for feedback */
+  color: #181A18 !important;
 }
 
 .page__footer {
@@ -90,13 +111,12 @@
   float: right;
   width: 280px;
   height: 360px;
-  object-fit: cover; /* crops the photo to fill the oval without distorting it */
-  border-radius: 50%; /* unequal width/height + 50% radius = oval, not circle */
+  object-fit: cover;
+  border-radius: 50%;
   margin: 0 0 1.5em 2em;
-  shape-outside: ellipse(50% 50%); /* text wraps the curve, not the box */
+  shape-outside: ellipse(50% 50%);
 }
 
-/* stop the next heading/section from being squeezed if the image is taller than the text */
 .oval-portrait-clear {
   clear: both;
 }
@@ -105,7 +125,7 @@
   display: flex;
   gap: 1.5em;
   margin: 2em 0;
-  flex-wrap: wrap; /* lets images stack on narrow/mobile screens instead of squishing */
+  flex-wrap: wrap;
 }
 
 .image-row figure {
@@ -122,7 +142,7 @@
 .image-row figcaption {
   margin-top: 0.5em;
   font-size: 0.85em;
-  color: #6d4c34; /* swap to match your palette */
+  color: #6d4c34;
 }
 
 #storymap-wrap {
