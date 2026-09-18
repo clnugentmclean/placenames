@@ -28,7 +28,7 @@ body {
   position: absolute;
   top: 100%;
   left: 0;
-  background: #3E4A32 !important; 
+  background: #BFF1FF !important; 
   border: 1px solid #ddd;
   list-style: none;
   padding: 0.5em 0;
@@ -56,7 +56,7 @@ body {
   left: 0;
   width: 100%;
   z-index: 9999;
-  background-color: #3E4A32; /* match your site's actual masthead color */
+  background-color: #BFF1FF; /* match your site's actual masthead color */
 }
 
 .initial-content,
@@ -72,10 +72,15 @@ body {
 .masthead__inner-wrap,
 .masthead__menu,
 #site-nav {
-  background-color: #F1E9D2 !important;
+  background-color: #BFF1FF !important;
 }
 
-.masthead .site-title,
+.masthead .site-title {
+  color: #181A18 !important;
+  font-family: $sans-serif;
+  font-weight: 700; /* bolded, independent from the nav links */
+}
+
 .masthead__menu-item a {
   color: #181A18 !important;
   font-family: $sans-serif;
@@ -91,7 +96,7 @@ body {
 }
 
 .page__footer {
-  background-color: #E9D6BC; /* or whatever color you want */
+  background-color: #FFFFFF; /* or whatever color you want */
 }
 
 .page__footer,
@@ -100,11 +105,11 @@ body {
 }
 
 .page__footer a:hover {
-  color: #ffffff !important;
+  color: #181A18 !important;
 }
 
 .greedy-nav .visible-links a::before {
-  background: #5A1846 !important; /* or whatever accent you want here */
+  background: #0096FF !important; /* or whatever accent you want here */
 }
 
 .oval-portrait {
@@ -143,14 +148,4 @@ body {
   margin-top: 0.5em;
   font-size: 0.85em;
   color: #6d4c34;
-}
-
-#storymap-wrap {
-  width: 100%;
-}
-
-#storymap-frame {
-  width: 100%;
-  border: none;
-  display: block;
 }
