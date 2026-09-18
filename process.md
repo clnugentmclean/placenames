@@ -13,15 +13,15 @@ I did not find any pre-existing data sets that contained the information I was i
 For the map of Martha’s Vineyard, I followed a similar process as the state map, using Google maps to pull the coordinates of locations into a dataset to be mapped. I first went through Bright’s dictionary to pull out any place names on the island, which would represent the place names that were officially recognized by the United States government. For the case of Martha’s Vineyard, I wanted to show a comparison between these official names and the traditional Indigenous names for places throughout the island. I relied on the official website of the [Wampanoag Tribe of Gay Head/Aquinnah](https://wampanoagtribe-nsn.gov/) which featured a list of Wampanoag place names for locations on the island.
 
 ## References
-- Barnd, Natchee Blu. Native Space: Geographic Strategies to Unsettle Settler Colonialism. Corvallis, OR: Oregon State University, 2017.
-- Bright, William. Native American Placenames of the United States. Norman, OK: University of Oklahoma Press, 2004.
-- Holm, Johan. “The Resurgence of Native American Identity: A case study of the Wampanoag Tribe of Gay Head (Aquinnah).” LUP Student Papers, 2006.
-- Hunt, Dallas. “Every Bus Stop a Tomb: Decolonial Cartographic Readings against Literary, Visual, and Virtual Colonial Claims to Space.” Cartographica: The International Journal for Geographic Information and Geovisualization 55, no. 3 (2020): 199-206.
-- Kennedy, John H. “The Other Tribe.” Martha’s Vineyard Magazine, October 2017.
-- Leonard, Kelsey. “Putting Indigenous Place-Names and Languages Back on Maps.” ARC News, Winter 2021.
-- O’Brien, Jean M. Firsting and Lasting: Writing Indians Out of Existence in New England. Minneapolis: University of Minneapolis Press, 2010.
-- Rose-Redwood, Reuben, Natchee Blu Barnd, Annita Hetoevėhotohke’e Lucchesi, Sharon Diaz, Wil Patrick. “Decolonizing the Map: Recentering Indigenous Mappings.” Cartographica: The International Journal for Geographic Information and Geovisualization 55, no. 3 (2020): 151-162.
-- Shea, Andrea. “Still Where They ‘Belong’: Aquinnah Wampanoag Tribe Tells Its Story With New Cultural Distict.” WBUR, August 9, 2016.
+- Barnd, Natchee Blu. *Native Space: Geographic Strategies to Unsettle Settler Colonialism.* Corvallis, OR: Oregon State University, 2017.
+- Bright, William. *Native American Placenames of the United States.* Norman, OK: University of Oklahoma Press, 2004.
+- Holm, Johan. “The Resurgence of Native American Identity: A case study of the Wampanoag Tribe of Gay Head (Aquinnah).” *LUP Student Papers*, 2006.
+- Hunt, Dallas. “Every Bus Stop a Tomb: Decolonial Cartographic Readings against Literary, Visual, and Virtual Colonial Claims to Space.” *Cartographica: The International Journal for Geographic Information and Geovisualization* 55, no. 3 (2020): 199-206.
+- Kennedy, John H. [“The Other Tribe.”](https://mvmagazine.com/news/2017/09/01/other-tribe) *Martha’s Vineyard Magazine*, October 2017.
+- Leonard, Kelsey. “Putting Indigenous Place-Names and Languages Back on Maps.” *ARC News*, Winter 2021.
+- O’Brien, Jean M. *Firsting and Lasting: Writing Indians Out of Existence in New England.* Minneapolis: University of Minneapolis Press, 2010.
+- Rose-Redwood, Reuben, Natchee Blu Barnd, Annita Hetoevėhotohke’e Lucchesi, Sharon Diaz, Wil Patrick. “Decolonizing the Map: Recentering Indigenous Mappings.” *Cartographica: The International Journal for Geographic Information and Geovisualization* 55, no. 3 (2020): 151-162.
+- Shea, Andrea. [“Still Where They ‘Belong’: Aquinnah Wampanoag Tribe Tells Its Story With New Cultural Distict.”](https://www.wbur.org/news/2016/08/09/aquinnah-wampanoag-cultural-district) WBUR, August 9, 2016.
 - Smith, Linda Tuhiwai. Decolonizing Methodologies: Research and Indigenous Peoples. London: Zed Books, 2012.
-- “Wampanoag History.” Wampanoag Tribe of Gay Head (Aquinnah), Online.
-- “Who We Are: Our History.” Chappaquiddick Wampanoag Tribe, Online.
+- [“Wampanoag History.”](https://wampanoagtribe-nsn.gov/wampanoag-history) Wampanoag Tribe of Gay Head (Aquinnah).
+- [“Who We Are: Our History.”](https://www.chappaquiddickwampanoag.org/who-we-are/our-history) Chappaquiddick Wampanoag Tribe.
