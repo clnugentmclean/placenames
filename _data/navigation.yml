@@ -1,0 +1,18 @@
+main:
+  - title: "Home"
+    url: /
+
+  - title: "State Map"
+    url: /state/
+
+  - title: "Martha's Vineyard"
+    url: /vineyard/    
+
+  - title: "Process"
+    url: /process/
+  
+
+    
+
+
+        

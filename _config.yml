@@ -1,0 +1,12 @@
+title: "Indigenous Placenames of Massachusetts"
+description: "Digital Humanities Project"
+url: "https://clnugentmclean.github.io/placenames/"
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "dirt"
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+markdown: kramdown
+
