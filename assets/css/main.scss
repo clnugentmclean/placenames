@@ -78,7 +78,9 @@ body {
 .masthead .site-title {
   color: #181A18 !important;
   font-family: $sans-serif;
-  font-weight: 700; /* bolded, independent from the nav links */
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
 }
 
 .masthead__menu-item a {
@@ -96,7 +98,7 @@ body {
 }
 
 .page__footer {
-  background-color: #FFFFFF; /* or whatever color you want */
+  background-color: #F5F5F5; /* or whatever color you want */
 }
 
 .page__footer,
