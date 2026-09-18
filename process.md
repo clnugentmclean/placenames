@@ -4,7 +4,6 @@ layout: single
 permalink: /process/
 ---
 ## Research Process
-I have lived most of my life in Massachusetts, and I only very recently became educated on how prevalent the practice of using Indigenous words for place names is in the state of Massachusetts. I became interested in the intersection between the myth of the “disappearing/vanished Native” and the widespread use of Indigenous place names.
 
 In terms of this project, I was very aware of the time constraints of a single semester. I also am aware of the long-term use of cartography and maps as colonial tools, especially in the process of writing Indigenous people out of dominant U.S. history. Thus, I do not present this project as complete but rather a small part of what I imagine could be a substantive project interrogating Indigenous place names in Massachusetts. In an ideal world, the data gathered for this project would have been jointly created through collaboration with local Indigenous people. Some argue that truly decolonial maps are products not meant for non-Indigenous eyes, while others emphasize the importance of an active role of Indigenous people in the process of map making. However, I was unable to connect with any people in this short time frame, but I acknowledge that a future iteration of this project would be more successful with that inclusion. 
 
