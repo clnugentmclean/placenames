@@ -6,7 +6,7 @@ permalink: /
 Maps have long been used as a tool of colonialism, dividing up the world and demarcating arbitrary borders. Maps have also been used by the colonial apparatus in the process of sustaining settler colonial geographies in North America. This can be seen for example in the mid-seventeenth century map of Massachusetts (below) that uses cartography to justify the new colonial borders. In this context, maps have been used as evidence of the ‘firsting’ and ‘lasting’ processes described by Jean O’Brien. Maps can demonstrate the apparent ‘lack’ of Indigenous people left, in what has been wielded as ‘proof’ that there are no longer any ‘real’ Indigenous people left. Much like the local literature explored by Jean M. O’Brien, maps were used in the process of removing Indigenous people from their ancestral lands. 2 Maps have been used, alongside narratives, to demonstrate the ‘truth’ of the myth of the vanishing/disappeared Native. Cartography can be used to write Indigenous communities out of existence, in the sense that their absence from dominant mapping regimes constitutes an erasure. 
 
 <figure style="width: 45%" class="align-left">
-  <img src="/assets/img/1665-map.jpg" alt="1665 Map of Martha's Vineyard">
+  <img src="{{ '/assets/img/1665-map.jpg' | relative_url }}" alt="1665 Map of Martha's Vineyard">
   <figcaption>A 1665 map commissioned by the government of Massachusetts to justify the colony’s northern and southern boundaries.</figcaption>
 </figure>
 
@@ -17,7 +17,7 @@ Cartographies of empire have been instrumental in the dispossession of Indigenou
 In particular, this project seeks to explore the process of ‘inhabiting Indian-ness’ described by Natchee Blu Barnd in his book Native Space: Geographic Strategies to Unsettle Settler Colonialism. Barnd characterizes settler colonialism as “fundamentally defined by its spatial organization and outcomes,” making maps an important tool in contesting ongoing settler colonialism. He sees ‘inhabiting’ as one of the powerful and mundane ways that spaces are enacted, justified, and sustained; inhabiting is rooted in possession of both land and of Indian-ness. Within the framework of settler colonialism, inhabiting is tied to the legal construct that justified initial European presence in North America. In particular, the use of Indigenous place names for predominantly white areas represents an ongoing method for sustaining settler geographies and for ‘proving’ the myth of the disappearing/vanished native. This is not to say that Indigenous communities are not themselves interested in the construction of Indian-ness for spatial markers. However, Indigenous communities imbue spatial markers with Indian-ness as a means of asserting their identity and their relationship to place.
 
 <figure style="width: 45%" class="align-right">
-  <img src="/assets/img/gay-head.jpg" alt="Gay Head Cliffs in Martha's Vineyard">
+  <img src="{{ '/assets/img/gay-head.jpg' | relative_url }}" alt="Gay Head Cliffs in Martha's Vineyard">
   <figcaption>Gay Head Cliffs in Martha's Vineyard. Ancestral lands of the Aquinnah-Wampanoag Tribe.</figcaption>
 </figure>
 

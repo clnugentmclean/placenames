@@ -12,7 +12,8 @@ To explore this map, click on a point to see the location’s name. The points a
 The island of Martha’s Vineyard stands as a good case study because its boundaries are self-contained and it is a place with both predominantly white spaces with Indigenous place names and the use of an Indigenous place name by and for an Indigenous space. There are a variety of places on the island that fit the criteria of being predominantly white spaces using Indigenous place names, but for the purpose of this case study I will be comparing Chappaquiddick Island with Aquinnah. Aquinnah, which was formerly known as Gay Head, is the site of the Tribal Council for the Wampanoag Tribe of Aquinnah. Chappaquiddick Island is the ancestral home of the Chappaquiddick Wampanoag tribe, but the members of this tribe are no longer living on Chappaquiddick Island; many live across the water on the island of Martha’s Vineyard.
 
 <figure style="width: 45%" class="align-left">
-  <img src="/assets/img/1775-map.jpg" alt="1775 Map of Martha's Vineyard">
+  <img src="{{ '/assets/img/1775-map.jpg' | relative_url }}" alt="1775 Map of Martha's Vineyard">
+  
   <figcaption>1775 Map of Martha’s Vineyard.</figcaption>
 </figure>
 
@@ -22,11 +23,11 @@ The ancestors of the Wampanoag people have lived for at least 10,000 years on th
 
 <div class="image-row">
   <figure>
-    <img src="/assets/img/1844-map.jpg" alt="1844 Map of Martha's Vineyard">
+    <img src="{{ '/assets/img/1844-map.jpg' | relative_url }}" alt="1844 Map of Martha's Vineyard">
     <figcaption>1844 Map of Martha's Vineyard. The area of Gay Head is also marked as "Indian Lands."</figcaption>
   </figure>
   <figure>
-    <img src="/assets/img/1871-map.jpg" alt="1871 Map of Martha's Vineyard">
+    <img src="{{ '/assets/img/1871-map.jpg' | relative_url }}" alt="1871 Map of Martha's Vineyard">
     <figcaption>1871 Map of Martha's Vineyard. The ancestral lands of the Aquinnah-Wampanoag are still demarcated as 'Indian Lands.' This is the last historic map of Martha's Vineyard that includes this place acknowledgement.</figcaption>
   </figure>
 </div>
@@ -40,7 +41,7 @@ Although the Wampanoag Tribe of Gay Head received federal recognition and some o
 The use of Indian-ness to describe the area of Aquinnah differs radically from the use of Indian-ness for Chappaquiddick Island. Aquinnah is used to assert the Indian-ness of the landscape and emphasize the continued importance of the Wampanoag tribe to the area.
 
 <figure style="width: 45%" class="align-left">
-  <img src="/assets/img/chappaquiddick.jpg" alt="Members of the Chappaquiddick Wampanoag Tribe, late 1970s">
+  <img src="{{ '/assets/img/chappaquiddick.jpg' | relative_url }}" alt="Members of the Chappaquiddick Wampanoag Tribe, late 1970s">
   <figcaption>Members of the Chappaquiddick Wampanoag Tribe march for recognition, late 1970s.</figcaption>
 </figure>
 
